@@ -1,0 +1,23 @@
+.main-div-edit-file{
+    width: 80vw;
+    margin: auto;
+}
+
+.submit-btn-editfile{
+    padding: 10px;
+    margin: 3px 20px 0px 0px;
+    background-color: rgb(158, 156, 156);
+    border: none;
+    border-radius: 20px;
+}
+
+.submit-btn-editfile:hover,.back-btn-editfile:hover{
+    box-shadow: 2px 3px rgb(126, 124, 124);
+}
+.back-btn-editfile{
+    padding: 10px;
+    margin: 3px 20px 0px 0px;
+    background-color: rgb(158, 156, 156);
+    border: none;
+    border-radius: 20px;
+}

@@ -1,0 +1,7 @@
+.path-and-back-button-body{
+    display: flex;
+}
+
+.path-and-back-button-body h2{
+    margin-left: 20px;
+}

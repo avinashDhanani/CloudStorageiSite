@@ -1,0 +1,10 @@
+.main-div-navbar{
+    height: 10vh;
+    background-color: rgb(98, 98, 98);
+    color: white;
+    align-items: center;
+}
+.main-div-navbar h1{
+    align-items: center;
+    padding: 1vh 2vw;
+}
